@@ -140,6 +140,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 # ]
 
 SWAGGER_SETTINGS = {
+    'USE_SESSION_AUTH': False,  # Disable Django session authentication
     'SECURITY_DEFINITIONS': {
         'Bearer': {
             'type': 'apiKey',
