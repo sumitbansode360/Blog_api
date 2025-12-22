@@ -67,7 +67,7 @@ https://drfblogapibysumit.pythonanywhere.com/swagger/
 - Protected endpoints require the token in request headers
 
 **Authorization Header Format:**
-Authorization: Bearer <access_token>
+**Authorization: Bearer <access_token>**
 
 - Unauthenticated users can access **read-only** endpoints (public blogs)
 
@@ -105,7 +105,7 @@ python manage.py createsuperuser
 # Run development server
 python manage.py runserver
 
-
+```
 👨‍💻 Author
 
 Sumit Bansode
