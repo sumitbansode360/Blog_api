@@ -7,6 +7,15 @@ This project demonstrates **real-world backend practices** including authenticat
 🔗 **Live API Documentation (Swagger):**  
 https://drfblogapibysumit.pythonanywhere.com/swagger/
 
+
+## 🔑 Demo Login Credentials
+
+To make evaluation easier, test credentials are provided below.
+
+### 👤 Demo User Account 1
+- **Username:** testuser1
+- **Password:** test@123
+
 ---
 
 ## 📌 Key Highlights
